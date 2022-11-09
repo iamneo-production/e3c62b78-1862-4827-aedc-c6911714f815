@@ -1,0 +1,17 @@
+.container{
+    padding-top: 70px;
+    padding-left: 80px;
+}
+#displayButton:hover{
+    font-weight: bold;
+    font-size: larger;
+    
+}
+/* #displayButton2:hover{
+    font-weight: bold;
+    font-size:x-large;
+}
+#displayButton3:hover{
+    font-weight: bold;
+    font-size:xx-large;
+} */
